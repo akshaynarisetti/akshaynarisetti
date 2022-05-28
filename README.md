@@ -24,4 +24,17 @@
 </br>
 </br>
 
+### Let's Connect  :coffee:
+<p align="center">
+	<a href="https://github.com/akshaynarisetti"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/narisettiakshay/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/akshay_narisetti/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/AkshayNarisetti"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+
+</br>
+</br>
+</br>
+
+
 ![HEY, I'M AKSHAY (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
