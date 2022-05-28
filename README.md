@@ -17,12 +17,11 @@
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=akshaynarisetti&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-    </a>
-    
 </div>
 
 
+</br>
+</br>
+</br>
 
-![HEY, I'M AKSHAY](https://user-images.githubusercontent.com/58532023/170816679-c1b97d68-48d7-4387-8f80-cccc90b6ba5a.svg)
-
+![HEY, I'M AKSHAY (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
