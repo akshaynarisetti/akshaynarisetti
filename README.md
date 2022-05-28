@@ -7,8 +7,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshaynarisetti&repo=E-Ink" />
 </a>
 
-
-<img
-  src="https://github.com/akshaynarisetti/akshaynarisetti/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
