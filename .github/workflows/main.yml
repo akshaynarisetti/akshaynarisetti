@@ -2,7 +2,6 @@ name: WakaTime status update
 
 on:
   push:
-  
     branches: [main]
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
