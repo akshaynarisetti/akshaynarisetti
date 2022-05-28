@@ -9,6 +9,6 @@
 
 
 <img
-  src="https://github.com/akshaynarisettia/akshaynarisetti/blob/main/images/stat.svg"
+  src="https://github.com/akshaynarisetti/akshaynarisetti/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
