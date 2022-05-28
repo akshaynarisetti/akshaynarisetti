@@ -23,6 +23,6 @@ jobs:
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
+          BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
