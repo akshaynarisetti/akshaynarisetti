@@ -24,14 +24,22 @@
 </br>
 </br>
 
-### Let's Connect  :coffee:
+
+<h3> Connect with me <img src='https://user-images.githubusercontent.com/58532023/170946099-101999c0-1548-4029-b9e7-70aca1289c47.gif' width="100px"> </h3>
 <p align="center">
 	<a href="https://github.com/akshaynarisetti"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/narisettiakshay/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/akshay_narisetti/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/AkshayNarisetti"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-
+</br>
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
