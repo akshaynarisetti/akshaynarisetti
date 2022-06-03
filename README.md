@@ -128,8 +128,7 @@
 </br>
 
 
-
-<h3> Connect with me <img src='https://user-images.githubusercontent.com/58532023/170946099-101999c0-1548-4029-b9e7-70aca1289c47.gif' width="50px"> </h3>
+### Connect with me  :coffee:
 <p align="center">
 	<a href="https://github.com/akshaynarisetti"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/narisettiakshay/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
