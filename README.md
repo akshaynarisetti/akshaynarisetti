@@ -1,6 +1,12 @@
 ![HEY, I'M AKSHAY](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
 
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
 
+###  Watch my contribution graph get eaten by the snake 🥳
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <a><h2>Stats</h2></a>
 <div>
@@ -138,22 +144,12 @@
 
 
 </br>
-<div align="center"> 
-<i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
+
 </br>
 
-###  Watch my contribution graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <div>
 	</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 	</div>
 
 ![HEY, I'M AKSHAY (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
